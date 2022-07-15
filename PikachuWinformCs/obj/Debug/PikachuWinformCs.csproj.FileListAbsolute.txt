@@ -1,0 +1,10 @@
+C:\Users\tinhu\OneDrive\Máy tính\PikachuWinformCs\PikachuWinformCs\bin\Debug\PikachuWinformCs.exe.config
+C:\Users\tinhu\OneDrive\Máy tính\PikachuWinformCs\PikachuWinformCs\bin\Debug\PikachuWinformCs.exe
+C:\Users\tinhu\OneDrive\Máy tính\PikachuWinformCs\PikachuWinformCs\bin\Debug\PikachuWinformCs.pdb
+C:\Users\tinhu\OneDrive\Máy tính\PikachuWinformCs\PikachuWinformCs\obj\Debug\PikachuWinformCs.csproj.AssemblyReference.cache
+C:\Users\tinhu\OneDrive\Máy tính\PikachuWinformCs\PikachuWinformCs\obj\Debug\PikachuWinformCs.Form1.resources
+C:\Users\tinhu\OneDrive\Máy tính\PikachuWinformCs\PikachuWinformCs\obj\Debug\PikachuWinformCs.Properties.Resources.resources
+C:\Users\tinhu\OneDrive\Máy tính\PikachuWinformCs\PikachuWinformCs\obj\Debug\PikachuWinformCs.csproj.GenerateResource.cache
+C:\Users\tinhu\OneDrive\Máy tính\PikachuWinformCs\PikachuWinformCs\obj\Debug\PikachuWinformCs.csproj.CoreCompileInputs.cache
+C:\Users\tinhu\OneDrive\Máy tính\PikachuWinformCs\PikachuWinformCs\obj\Debug\PikachuWinformCs.exe
+C:\Users\tinhu\OneDrive\Máy tính\PikachuWinformCs\PikachuWinformCs\obj\Debug\PikachuWinformCs.pdb
